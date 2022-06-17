@@ -1,0 +1,36 @@
+---------------------------------------
+[DONE] Privacy Degree 4 satisfiable
+       Group created: 91
+       in  15  sec
+---------------------------------------
+[DONE] Kl-Divergence value: 0.2996065510072034
+---------------------------------------
+[DONE] Privacy Degree 6 satisfiable
+       Group created: 87
+       in  39  sec
+---------------------------------------
+[DONE] Kl-Divergence value: 0.32452219644962005
+---------------------------------------
+[DONE] Privacy Degree 10 satisfiable
+       Group created: 72
+       in  98  sec
+---------------------------------------
+[DONE] Kl-Divergence value: 0.4204062616293215
+---------------------------------------
+[DONE] Privacy Degree 12 satisfiable
+       Group created: 65
+       in  132  sec
+---------------------------------------
+[DONE] Kl-Divergence value: 0.46258317584583375
+---------------------------------------
+[DONE] Privacy Degree 14 satisfiable
+       Group created: 57
+       in  166  sec
+---------------------------------------
+[DONE] Kl-Divergence value: 0.49757793543529855
+---------------------------------------
+[DONE] Privacy Degree 16 satisfiable
+       Group created: 52
+       in  201  sec
+---------------------------------------
+[DONE] Kl-Divergence value: 0.56593860764078616
