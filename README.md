@@ -13,6 +13,8 @@ pip3 install -r requirements.txt
 ```
 python3 Main.py
 ```
+#### - Explanation of the work: [FinalPresentation.pdf](https://github.com/simocellla/DPP_FinalProject/blob/master/CAHD_Info/%5BDP%26P%5D%20final%20presentation.pdf)
+
 [!!]  *Note that in the* [Main.py](https://github.com/simocellla/DataProtection-Privacy_FinalProject/blob/master/Main.py) *you can change the working DB and also the proprieties that you want to use during the process*
 #### Preview of execution
 
